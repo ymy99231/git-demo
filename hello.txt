@@ -3,7 +3,6 @@ hello at guigu! hello git!
 hello at guigu! hello git!333333333333333333333
 hello at guigu! hello git!
 hello at guigu! hello git!
-hello at guigu! hello git!555555555555555
 hello at guigu! hello git!
 hello at guigu! hello git!
 hello at guigu! hello git!
@@ -15,4 +14,5 @@ hello at guigu! hello git!
 hello at guigu! hello git!
 hello at guigu! hello git!
 hello at guigu! hello git!
+hello at guigu! hello git! hot-fix test
 hello at guigu! hello git!
